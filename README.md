@@ -1,1 +1,1 @@
-# REAL_INFINIT
+# Infinite_Runner_Game
